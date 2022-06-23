@@ -1,0 +1,13 @@
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/bin/Debug/netcoreapp3.1/MyLinkedList.deps.json
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/bin/Debug/netcoreapp3.1/MyLinkedList.runtimeconfig.json
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/bin/Debug/netcoreapp3.1/MyLinkedList.runtimeconfig.dev.json
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/bin/Debug/netcoreapp3.1/MyLinkedList.dll
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/bin/Debug/netcoreapp3.1/MyLinkedList.pdb
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/obj/Debug/netcoreapp3.1/MyLinkedList.csproj.AssemblyReference.cache
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/obj/Debug/netcoreapp3.1/MyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/obj/Debug/netcoreapp3.1/MyLinkedList.AssemblyInfoInputs.cache
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/obj/Debug/netcoreapp3.1/MyLinkedList.AssemblyInfo.cs
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/obj/Debug/netcoreapp3.1/MyLinkedList.csproj.CoreCompileInputs.cache
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/obj/Debug/netcoreapp3.1/MyLinkedList.dll
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/obj/Debug/netcoreapp3.1/MyLinkedList.pdb
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/obj/Debug/netcoreapp3.1/MyLinkedList.genruntimeconfig.cache

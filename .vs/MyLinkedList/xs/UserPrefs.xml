@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DE5CA94A-DF94-44BF-BA29-67AC24369463}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyLinkedList/LinkedList.cs">
+    <Files>
+      <File FileName="MyLinkedList/LinkedList.cs" Line="24" Column="34" />
+      <File FileName="MyLinkedList/Program.cs" />
+      <File FileName="MyLinkedList/Node.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyLinkedList" expanded="True">
+            <Node name="MyLinkedList" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="LinkedList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyLinkedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/CircularLinkedList.cs" relfile="MyLinkedList/CircularLinkedList.cs" line="59" column="1" />
+      <Breakpoint file="/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/Program.cs" relfile="MyLinkedList/Program.cs" line="83" column="1" />
+      <Breakpoint file="/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/CircularLinkedList.cs" relfile="MyLinkedList/CircularLinkedList.cs" line="8" column="1" />
+      <Breakpoint file="/Users/leonardo.mesquita/Documents/Personal/pocs/MyLinkedList/MyLinkedList/Program.cs" relfile="MyLinkedList/Program.cs" line="57" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
